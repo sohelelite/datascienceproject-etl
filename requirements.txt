@@ -3,5 +3,6 @@ pandas
 numpy
 mlflow
 pyaml
+pymongo
 
 #-e .
