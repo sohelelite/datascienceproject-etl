@@ -4,6 +4,9 @@ numpy
 mlflow
 pyaml
 pymongo
-mlflow
+fastapi
+uvicorn
+python-multipart
+
 
 #-e .
