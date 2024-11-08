@@ -4,5 +4,6 @@ numpy
 mlflow
 pyaml
 pymongo
+mlflow
 
 #-e .
